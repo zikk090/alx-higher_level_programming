@@ -1,1 +1,1 @@
-Readme for the new directory 
+0x02. Python - import & modules
